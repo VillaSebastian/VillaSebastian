@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VillaSebastian
+- 🖥️ I’ve been self-learning how to code for the last two years
+- 👨🏻‍💻 Currently looking for my first role in backend web development, ideally writing Python
+- 👀 My interests lie within backend/server-side functionality and also devops
+- 📫 Can be reached via email at Sebastian.VillaL@outlook.com
